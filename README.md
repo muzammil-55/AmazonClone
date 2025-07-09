@@ -6,7 +6,7 @@ A static Amazon homepage clone built using HTML and CSS for frontend practice.
 
 - Amazon-like layout
 - Navigation bar, banner, product cards
-- Responsive design (if added)
+- Responsive design
 
 ## 🛠 Tech Used
 
